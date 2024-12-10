@@ -95,13 +95,23 @@
               transform: translate3d(0px, 0px, 0px);
             "
           >
-            <div class="nbuu342">
-              <img
-                src="../../assets/images/logo.svg"
-                alt="logo"
-                class="image"
-              />
-            </div>
+            <!-- <div class="nbuu342">
+             
+            </div> -->
+            <a class="logo-wrapper" href="/">
+              <div width="174"  class="logo--wrapper__inner">
+                <div class="sdewedf">
+                  <img
+                    src="../../assets/images/wagggylgo.png"
+                    alt="logo"
+                    class="logo-image"
+                  />
+                </div>
+                <!-- <div class="logo-text">
+                  WAGGYDOG
+                </div> -->
+              </div>
+            </a>
           </div>
         </a>
         <div class="huw34sd"></div>
